@@ -1,5 +1,5 @@
 {
-    "name": "symfony/mime",
+    "name": "se7enxweb/symfony-mime",
     "type": "library",
     "description": "Allows manipulating MIME messages",
     "keywords": ["mime", "mime-type"],
