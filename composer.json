@@ -2,7 +2,7 @@
     "name": "se7enxweb/symfony-mime",
     "type": "library",
     "description": "Allows manipulating MIME messages",
-    "keywords": ["mime", "mime-type"],
+    "keywords": ["mime", "mime-type", "ezplatform" ],
     "homepage": "https://symfony.com",
     "license": "MIT",
     "authors": [
